@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> Roland KOUAKOU <twitter>
+    Roland KOUAKOU
+    kofab95@gmail.com
+    DevOps Engineer
 
 # THANKS
 
-    <name>
+    Roland KOUAKOU
 
 # TECHNOLOGY COLOPHON
 
